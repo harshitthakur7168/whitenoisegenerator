@@ -21,4 +21,5 @@ pspectrum(noise,Fs)
 sound(noise, Fs)
 
 
+
 [noise,Fs] = audioread(filename);    // get audio file 
